@@ -1,0 +1,21 @@
+
+header > img {
+    margin-left: 10px;
+}
+
+
+footer{
+    background-color: darkslategrey;
+    color: white;
+}
+
+footer .col:first-child p:first-child{
+    font-weight: bolder;
+}
+ footer li{
+     color: white;
+
+#titulo1{
+    color: grey;
+    font-weight: bolder;
+}
